@@ -1,4 +1,4 @@
-package com.epam.lab.model.sweets;
+package newyeargift;
 
 public class Caramel extends Sweets {
 
