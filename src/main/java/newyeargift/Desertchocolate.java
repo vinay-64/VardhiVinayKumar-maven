@@ -1,11 +1,11 @@
 package newyeargift;
 
-public class DesertChocolate extends Sweets{
-   public DesertChocolate() {
+public class Desertchocolate extends Sweets{
+   public Desertchocolate() {
         super();
     }
 
-    public DesertChocolate(double aSugarLevel, double aWeight) {
+    public Desertchocolate(double aSugarLevel, double aWeight) {
         setSugarLevel(aSugarLevel);
         setWeight(aWeight);
     }
